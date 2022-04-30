@@ -1,0 +1,3 @@
+pyang==2.5.3
+git+https://github.com/fire-ant/pyang-json-schema-plugin
+jsonschema-cli==0.6.2

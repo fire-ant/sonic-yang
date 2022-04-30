@@ -1,7 +1,0 @@
-{
-    "dishwasher:dishwasher": {
-        "cycle": "quick rinse"
-        "// a simple comment": "short enough stays within 68 chars",
-        "// and this comment": "short enough to stay in 1 line only"
-    }
-}
