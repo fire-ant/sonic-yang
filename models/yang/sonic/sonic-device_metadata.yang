@@ -78,7 +78,9 @@ module sonic-device_metadata {
                 }
 
                 leaf bgp_asn {
-                    type inet:as-number;
+                    type string {
+                        pattern "6[0-9]{4}"
+                    }
                 }
 
                 leaf deployment_id {
