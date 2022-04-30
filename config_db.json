@@ -2,7 +2,7 @@
     "DEVICE_METADATA": {
         "localhost": {
             "bgp_asn": 65100, 
-            "deployment_id": null, 
+            "deployment_id": 1, 
             "hostname": "switch1", 
             "type": "LeafRouter", 
             "hwsku": "Force10-S6000"
