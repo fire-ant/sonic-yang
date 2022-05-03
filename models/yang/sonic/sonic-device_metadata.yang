@@ -79,7 +79,7 @@ module sonic-device_metadata {
 
                 leaf bgp_asn {
                     type string {
-                        pattern "6[0-9]{4}"
+                        pattern "6[0-9]{4}";
                     }
                 }
 

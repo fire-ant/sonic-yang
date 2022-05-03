@@ -4,9 +4,9 @@
 
         "localhost": {
 
-            "bgp_asn": "65100", 
+            "bgp_asn": 65100, 
 
-            "deployment_id": "1", 
+            "deployment_id": null, 
 
             "hostname": "switch2", 
 
@@ -37,7 +37,7 @@
     "VLAN": {
 
         "Vlan1000": {
-            "vlanid": "1000"	
+            "vlanid": 1000
         }
     }, 
 	
